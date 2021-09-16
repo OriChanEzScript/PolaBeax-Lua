@@ -12,6 +12,7 @@ Finally, you can see it pop-up a UI with command bar and an execute button. Here
 Commands and their functions!
 
 ```WalkSpeed(int)``` - Set your WalkSpeed to the given value!
+
 ```JumpHeight(int)``` - Set your JumpHeight to the given value!
 ```ViewInventory(player_name)``` - Allow you to view other players inventory.
 
