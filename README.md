@@ -14,6 +14,8 @@ Commands and their functions!
 ```WalkSpeed(int)``` - Set your WalkSpeed to the given value!
 
 ```JumpHeight(int)``` - Set your JumpHeight to the given value!
+
 ```ViewInventory(player_name)``` - Allow you to view other players inventory.
+
 
 More commands will be update soon!
