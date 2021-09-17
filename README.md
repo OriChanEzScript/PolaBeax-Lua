@@ -24,7 +24,7 @@ Commands and their functions!
 
 ```ViewInventory > player_name``` - Allow you to view other players inventory.
 
-```load > LUA Scripts``` - Run LUA scripts on the client.
+```loadlua > LUA Scripts``` - Run LUA scripts on the client.
 
 
 More commands will be update soon! ;)
