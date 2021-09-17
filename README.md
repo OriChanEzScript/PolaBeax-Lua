@@ -1,6 +1,6 @@
 # PolaBeax-Lua
 
-PolaBeax is an easy-to-use exploit which allow you to run different commands ( not LUA ) which already created.
+PolaBeax is an easy-to-use exploit which allow you to run different commands which already created.
 
 How to import it into the game?
 
@@ -14,15 +14,17 @@ Finally, you can see it pop-up a UI with command bar and an execute button. Here
 
 Commands and their functions!
 
-```WalkSpeed(int)``` - Set your WalkSpeed to the given value!
+```WalkSpeed > int``` - Set your WalkSpeed to the given value!
 
-```JumpHeight(int)``` - Set your JumpHeight to the given value!
+```JumpHeight > int``` - Set your JumpHeight to the given value!
 
 ```noclip``` - Toggle NoClip
 
 ```fly``` - Enable fly, click "L" to unfly!
 
-```ViewInventory(player_name)``` - Allow you to view other players inventory.
+```ViewInventory > player_name``` - Allow you to view other players inventory.
+
+```load > LUA Scripts``` - Run LUA scripts on the client.
 
 
 More commands will be update soon! ;)
