@@ -18,6 +18,10 @@ Commands and their functions!
 
 ```JumpHeight(int)``` - Set your JumpHeight to the given value!
 
+```noclip``` - Toggle NoClip
+
+```fly``` - Enable fly, click "L" to unfly!
+
 ```ViewInventory(player_name)``` - Allow you to view other players inventory.
 
 
